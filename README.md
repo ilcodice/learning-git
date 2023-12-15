@@ -15,6 +15,7 @@
 - Check the logs
 - Check the working directory status and make sure it's clean
 - Checkout the main branch
+- Pull from main, to make sure all changes from remote are considered
 - Merge your newly created branch to the main branch
 - Push the main branch to github
 
@@ -31,6 +32,7 @@
 - commit your changes
 - Check the working directory status and make sure it's clean
 - Checkout the main branch
+- Pull from main, to make sure all changes from remote are considered
 - Merge your newly created branch to the main branch
 - Push the main branch to github
 - Create a pull request
@@ -39,4 +41,4 @@
 - Pull all changes
 - Create and checkout a new branch with an appropriate name
 - With the help of markdown syntax, create a beautiful documentation of what you just learn.
-- Add, commit, merge, push and create a pull request
+- Repeat the last 8 steps in Part 3
